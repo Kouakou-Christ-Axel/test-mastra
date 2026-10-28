@@ -19,9 +19,13 @@
   "dependencies": {
     "@mastra/core": "1.79.0",
     "@mastra/duckdb": "1.15.0",
+    "@mastra/editor": "^0.16.4",
     "@mastra/libsql": "1.27.0",
+    "@mastra/mcp": "^2.5.0",
     "@mastra/memory": "1.39.0",
     "@mastra/observability": "1.21.0",
+    "ollama-ai-provider-v2": "^4.1.0",
+    "sharp": "^0.35.5",
     "zod": "^4.4.3"
   },
   "devDependencies": {
